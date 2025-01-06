@@ -14,7 +14,7 @@ import blog1 from "../assets/images/Projects/blog1.jpg"
 import blog2 from "../assets/images/Projects/blog2.jpg"
 import blog3 from "../assets/images/Projects/blog3.jpg"
 import serviceBg from "../assets/images/backgrounds/service-bg.png";
-import Navbar from "../Components/navbar";
+import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 
 const About = () => {

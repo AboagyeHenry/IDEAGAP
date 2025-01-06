@@ -2,7 +2,7 @@ import serviceHalfCycle from "../assets/images/background-shape/service-half-cyc
 import greenDot from "../assets/images/background-shape/green-dot.png"
 import greenhalfcircle from "../assets/images/background-shape/green-half-cycle.png"
 import featureBg from "../assets/images/background-shape/feature-bg-2.png"
-import Navbar from "../Components/navbar";
+import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 
 

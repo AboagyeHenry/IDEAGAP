@@ -5,7 +5,7 @@ import teamBgTriangle from "../assets/images/background-shape/team-bg-triangle.p
 import greenDot from "../assets/images/background-shape/green-dot.png";
 import Footer from "../Components/Footer";
 import { TfiLayersAlt } from "react-icons/tfi";
-import Navbar from "../Components/navbar";
+import Navbar from "../Components/Navbar";
 
 
 const Services = () => {

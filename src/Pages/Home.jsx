@@ -27,7 +27,7 @@ import { GrTechnology } from "react-icons/gr";
 import { RiCloudWindyLine } from "react-icons/ri";
 import { FaLaptopCode } from "react-icons/fa6";
 import { SiTechcrunch } from "react-icons/si";
-import Navbar from "../Components/navbar";
+import Navbar from "../Components/Navbar";
 
 const Home = () => {
   return (
