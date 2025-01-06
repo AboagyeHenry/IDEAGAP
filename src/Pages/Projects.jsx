@@ -8,7 +8,7 @@ import photography from "../assets/images/Projects/PHTOGRAPHYIMG.png";
 import cleaning from "../assets/images/Projects/cleaning_img.jpg";
 import cooprate from "../assets/images/Projects/cooporate.jpg";
 import hostel from "../assets/images/Projects/hostel.png";
-import Navbar from "../Components/navbar";
+import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 
 function Projects() {
