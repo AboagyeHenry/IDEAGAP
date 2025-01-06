@@ -1,11 +1,8 @@
-import React from "react";
 import bgSmImg from "../assets/images/backgrounds/service-page.png";
 import featureBg from "../assets/images/background-shape/feature-bg-2.png";
 import seoHalfCycle from "../assets/images/background-shape/seo-half-cycle.png";
 import teamBgTriangle from "../assets/images/background-shape/team-bg-triangle.png";
 import greenDot from "../assets/images/background-shape/green-dot.png";
-import footerBg from "../assets/images/backgrounds/footer-bg.png";
-import logo from "../assets/images/logo.png";
 import Footer from "../Components/Footer";
 import { TfiLayersAlt } from "react-icons/tfi";
 import Navbar from "../Components/navbar";
@@ -22,7 +19,7 @@ const Services = () => {
   style={{ backgroundImage: `url(${bgSmImg})` }}
 >
   <div className="container">
-    <div className="row">
+    <div className="row mt-7">
       <div className="col-12 text-center">
         <h2 className="section-title">Our Services</h2>
         <p className="mb-100">

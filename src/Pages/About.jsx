@@ -1,4 +1,3 @@
-import React from "react";
 import videothumb from "../assets/images/about/video-thumb.jpg";
 import greendot from "../assets/images/background-shape/green-dot.png";
 import bluedot from "../assets/images/background-shape/blue-dot.png";
@@ -6,7 +5,6 @@ import greenhalfcircle from "../assets/images/background-shape/green-half-cycle.
 import seoBall1 from "../assets/images/background-shape/seo-ball-1.png";
 import teamBgTriangle from "../assets/images/background-shape/team-bg-triangle.png";
 import serviceHalfCycle from "../assets/images/background-shape/service-half-cycle.png";
-import product1 from "../assets/images/product/product-1.jpg";
 import hostel_img from "../assets/images/Projects/MYHSEARCHIMG.png";
 import photography from "../assets/images/Projects/PHTOGRAPHYIMG.png";
 import cleaning from "../assets/images/Projects/cleaning_img.jpg";
@@ -90,10 +88,10 @@ const About = () => {
 
       <section className="section-lg about pb-0">
         <div className="container">
-          <div className="row">
+          <div className="row mt-7">
             <div className="col-lg-12">
               <h2 className="section-title">
-                About IdeaGap And It's Innovative IT Solutions
+                About IdeaGap And It&apos;s Innovative IT Solutions
               </h2>
             </div>
             <div className="col-lg-12 mb-100">

@@ -1,4 +1,3 @@
-import React from "react";
 import imageBg from "../assets/images/hero-area/banner-bg.png";
 import { Outlet } from "react-router-dom";
 import bannerHero from "../assets/images/hero-area/banner-img.png";
@@ -23,17 +22,17 @@ import hostel from "../assets/images/Projects/hostel.png";
 import blog1 from "../assets/images/Projects/blog1.jpg";
 import blog2 from "../assets/images/Projects/blog2.jpg";
 import blog3 from "../assets/images/Projects/blog3.jpg";
-import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 import { GrTechnology } from "react-icons/gr";
 import { RiCloudWindyLine } from "react-icons/ri";
 import { FaLaptopCode } from "react-icons/fa6";
 import { SiTechcrunch } from "react-icons/si";
+import Navbar from "../Components/navbar";
 
 const Home = () => {
   return (
     <div>
-      <Navbar />
+      <Navbar/>
 
       <section
         className="hero-section hero"

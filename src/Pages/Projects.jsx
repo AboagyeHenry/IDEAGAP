@@ -1,4 +1,3 @@
-import React from "react";
 import bgSmImg from "../assets/images/backgrounds/service-page.png";
 import featureBg from "../assets/images/background-shape/feature-bg-2.png";
 import seoHalfCycle from "../assets/images/background-shape/seo-half-cycle.png";

@@ -1,4 +1,3 @@
-import React from "react";
 import serviceHalfCycle from "../assets/images/background-shape/service-half-cycle.png";
 import greenDot from "../assets/images/background-shape/green-dot.png"
 import greenhalfcircle from "../assets/images/background-shape/green-half-cycle.png"
@@ -63,7 +62,7 @@ const Contact = () => {
 
       <section className="section-lg contact">
         <div className="container">
-          <div className="row">
+          <div className="row mt-7">
             <div className="col-lg-12 text-center">
               <h2 className="section-title">Contact</h2>
             </div>

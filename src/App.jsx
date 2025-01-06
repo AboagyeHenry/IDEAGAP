@@ -1,4 +1,3 @@
-import React from "react";
 import { Routes, Route } from "react-router-dom";
 import "./theme/plugins/jQuery/jquery.min.js";
 import "./theme/plugins/bootstrap/bootstrap.min.css";
